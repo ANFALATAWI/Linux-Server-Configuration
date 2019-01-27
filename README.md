@@ -2,8 +2,8 @@
 
 This is Project 3 for Udacity’s Full-Stack Nanodegree, the objective is to configure a Linux server and deploy an app on it.
 
-You can find the server running at http://3.121.110.122.xip.io
-The IP of the server: 3.121.110.122
+You can find the server running at http://3.121.110.122.xip.io 
+The IP of the server: 3.121.110.122 
 (It’s running   [Games’ Catalog](https://github.com/ANFALATAWI/Games_Catalog))
 
 You can log in as user grader with the key provided in the instructor notes, using:
