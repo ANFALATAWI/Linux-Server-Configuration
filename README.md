@@ -19,6 +19,8 @@ You can log in as user grader with the key provided in the instructor notes, usi
 * [PostgreSQL](https://www.postgresql.org)
 * [Google oAuth](https://developers.google.com/identity/protocols/OAuth2)
 * [SQLalchemy](https://www.sqlalchemy.org)
+* [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+* [Brew](http://linuxbrew.sh)
 
 ... and  a number of supporting modules to run the previous Udacity project [Games’ Catalog](https://github.com/ANFALATAWI/Games_Catalog).
 
